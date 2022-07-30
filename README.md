@@ -4,5 +4,5 @@
 ```
 POST : http://localhost:3000
 
-{ "number": "5", "intervel": 1, "endTime": 5 } 
+{ "number": "5", "interval": 1, "endTime": 5 } 
 ```
